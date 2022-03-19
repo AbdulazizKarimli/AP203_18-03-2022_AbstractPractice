@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\bin\Debug\netcoreapp3.1\AbstractPractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP203\C#\ClassWorks\18032022Practice\AbstractPractice\obj\Debug\netcoreapp3.1\AbstractPractice.genruntimeconfig.cache
